@@ -35,16 +35,18 @@
 ----
 
 ```
-@ARTICLE{10742072,
+@article{ma2024heterogeneous,
+  title={Heterogeneous Federated Learning: Client-side Collaborative Update Inter-Domain Generalization Method for Intelligent Fault Diagnosis},
   author={Ma, Hongbo and Wei, Jiacheng and Zhang, Guowei and Wang, Qibin and Kong, Xianguang and Du, Jingli},
-  journal={IEEE Internet of Things Journal}, 
-  title={Heterogeneous Federated Learning: Client-side Collaborative Update Inter-Domain Generalization Method for Intelligent Fault Diagnosis}, 
+  journal={IEEE Internet of Things Journal},
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Data models;Federated learning;Fault diagnosis;Biological system modeling;Computational modeling;Servers;Feature extraction;Collaboration;Peer-to-peer computing;Machinery;Rotating machinery;Intelligent fault diagnosis;Federated learning;Model heterogeneous;Data statistical heterogeneous},
-  doi={10.1109/JIOT.2024.3489617}}
+  publisher={IEEE}
+}
 ```
 
 Ma H, Wei J, Zhang G, et al. Heterogeneous Federated Learning: Client-side Collaborative Update Inter-Domain Generalization Method for Intelligent Fault Diagnosis[J]. IEEE Internet of Things Journal, 2024.
+# Acknowledgement
+
+Huang W, Ye M, Shi Z, et al. Generalizable heterogeneous federated cross-correlation and instance similarity learning[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023, 46(2): 712-728.
+
+Huang W, Ye M, Shi Z, et al. Generalizable heterogeneous federated cross-correlation and instance similarity learning[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023, 46(2): 712-728.
