@@ -1,0 +1,2 @@
+parti_num,setting,public_dataset,model_setting,get_time,matrix,public_tsne,local_tsne,communication_epoch,local_lr,public_lr,local_epoch,public_epoch,public_batch_size,local_batch_size,temp,fccm,fisl
+4,domain_skew,CWRU5,4,0,1,0,0,30,0.0001,0.0001,15,2,64,64,0.5,0.0051,1.5
