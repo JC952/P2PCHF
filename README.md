@@ -30,8 +30,8 @@
 
 ![local](https://github.com/user-attachments/assets/7b2cda18-e034-4c20-822e-a23becde019b)
 
-# Early Access Citation
-
+# Citation
+If you find this paper and repository useful, please cite us! ⭐⭐⭐
 ----
 
 ```
